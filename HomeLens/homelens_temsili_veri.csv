@@ -1,0 +1,501 @@
+Semt,Oda_Sayisi,Metrekare,Bina_Yasi,Kat,Isitma,Site_Icinde,Esyali,Asansor,Balkon,Manzara,Aidat,Kira
+Karşıyaka,2+1,142,17,4,Klima,Evet,Hayır,Evet,Evet,Şehir,243,34156
+Bayraklı,2+1,111,14,1,Klima,Evet,Evet,Hayır,Evet,Şehir,584,22746
+Bornova,1+1,139,10,1,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Deniz,211,28713
+Konak,2+1,112,13,3,Klima,Hayır,Hayır,Hayır,Hayır,Yok,721,22354
+Bornova,1+1,114,19,3,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Deniz,55,26047
+Buca,2+1,119,10,2,Merkezi Sistem,Hayır,Evet,Evet,Evet,Şehir,360,21511
+Karşıyaka,4+1,82,23,2,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,677,19333
+Bornova,1+1,96,2,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Şehir,227,20238
+Karşıyaka,3+1,97,15,2,Merkezi Sistem,Evet,Hayır,Evet,Evet,Deniz,392,23962
+Buca,1+1,129,22,2,Doğalgaz Kombi,Hayır,Evet,Evet,Hayır,Yok,517,22767
+Balçova,1+1,96,26,3,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,940,17718
+Karabağlar,1+1,172,18,1,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Yok,732,29081
+Balçova,4+1,148,15,2,Klima,Hayır,Evet,Hayır,Evet,Yok,868,27284
+Karşıyaka,4+1,101,30,4,Soba,Hayır,Hayır,Evet,Hayır,Şehir,474,22020
+Karabağlar,2+1,63,22,4,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Deniz,23,12993
+Buca,1+1,87,12,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Şehir,685,16145
+Buca,3+1,159,12,1,Merkezi Sistem,Hayır,Evet,Evet,Evet,Şehir,376,29533
+Konak,1+1,62,26,2,Soba,Evet,Evet,Evet,Hayır,Yok,948,15279
+Karabağlar,4+1,138,0,2,Klima,Hayır,Hayır,Evet,Hayır,Yok,48,23751
+Karabağlar,3+1,118,14,1,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Yok,652,19786
+Buca,2+1,67,17,4,Soba,Hayır,Evet,Evet,Evet,Deniz,17,14002
+Balçova,1+1,93,11,3,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Deniz,355,16901
+Karabağlar,4+1,158,0,3,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Şehir,348,30073
+Bayraklı,3+1,68,13,4,Soba,Evet,Hayır,Evet,Evet,Şehir,670,15729
+Bayraklı,1+1,113,25,4,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Şehir,55,21461
+Konak,4+1,104,16,4,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Şehir,444,21163
+Balçova,1+1,158,19,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Deniz,109,30348
+Konak,4+1,82,18,4,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Deniz,39,18755
+Karşıyaka,2+1,110,3,1,Soba,Hayır,Hayır,Evet,Hayır,Şehir,727,26384
+Bornova,1+1,100,18,1,Merkezi Sistem,Hayır,Evet,Evet,Evet,Şehir,351,21521
+Balçova,4+1,153,20,1,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Deniz,814,30229
+Karşıyaka,2+1,77,29,1,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Şehir,904,17352
+Karşıyaka,4+1,81,19,3,Soba,Evet,Evet,Evet,Evet,Şehir,299,20751
+Bornova,1+1,110,9,4,Klima,Evet,Hayır,Hayır,Hayır,Yok,434,21438
+Bornova,4+1,103,7,1,Soba,Evet,Hayır,Evet,Hayır,Şehir,282,22524
+Karşıyaka,4+1,123,14,4,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Yok,220,29073
+Buca,1+1,98,7,4,Klima,Evet,Evet,Hayır,Hayır,Deniz,814,18192
+Bornova,1+1,60,11,4,Klima,Evet,Evet,Hayır,Hayır,Yok,651,13525
+Balçova,4+1,179,2,4,Klima,Hayır,Hayır,Evet,Hayır,Yok,14,33798
+Konak,3+1,113,3,3,Merkezi Sistem,Evet,Evet,Evet,Hayır,Şehir,462,26218
+Karşıyaka,3+1,129,25,1,Soba,Hayır,Hayır,Evet,Hayır,Deniz,860,28794
+Bornova,2+1,108,11,3,Soba,Hayır,Hayır,Hayır,Hayır,Yok,73,20679
+Konak,1+1,66,19,2,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Yok,904,14628
+Buca,3+1,63,12,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Yok,568,10484
+Konak,1+1,153,9,2,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Deniz,780,34673
+Karabağlar,4+1,102,30,2,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Deniz,507,19334
+Bornova,3+1,146,1,1,Merkezi Sistem,Evet,Hayır,Evet,Evet,Şehir,133,31166
+Bornova,2+1,147,16,4,Klima,Hayır,Evet,Evet,Evet,Yok,90,30337
+Buca,1+1,104,27,1,Klima,Evet,Evet,Hayır,Hayır,Deniz,744,19534
+Buca,1+1,158,10,4,Klima,Hayır,Evet,Hayır,Evet,Şehir,852,27552
+Balçova,4+1,123,15,4,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Deniz,912,23322
+Karşıyaka,2+1,115,27,3,Soba,Hayır,Hayır,Evet,Evet,Şehir,712,25931
+Karabağlar,4+1,167,1,2,Soba,Evet,Evet,Evet,Evet,Şehir,323,31309
+Bornova,1+1,103,14,3,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Deniz,20,21783
+Balçova,4+1,70,27,4,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Deniz,251,13863
+Karşıyaka,4+1,98,2,3,Klima,Evet,Hayır,Evet,Evet,Yok,963,24101
+Bornova,3+1,175,18,3,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,838,34932
+Bayraklı,3+1,128,28,1,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Deniz,639,24881
+Karabağlar,3+1,88,5,3,Klima,Evet,Evet,Hayır,Evet,Deniz,242,17955
+Konak,4+1,71,17,4,Klima,Evet,Evet,Evet,Hayır,Deniz,506,17440
+Konak,2+1,104,12,4,Soba,Evet,Evet,Evet,Hayır,Şehir,854,24101
+Bornova,3+1,128,11,3,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Yok,579,25110
+Konak,1+1,164,14,4,Klima,Hayır,Evet,Evet,Evet,Deniz,589,36466
+Konak,1+1,132,2,2,Doğalgaz Kombi,Hayır,Hayır,Hayır,Hayır,Şehir,614,27428
+Buca,3+1,143,7,2,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Deniz,83,27699
+Bornova,2+1,148,22,1,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Yok,385,29317
+Bayraklı,2+1,70,13,4,Merkezi Sistem,Hayır,Evet,Hayır,Evet,Yok,265,13352
+Buca,2+1,140,24,4,Soba,Evet,Evet,Hayır,Evet,Yok,404,24116
+Karabağlar,2+1,114,6,3,Klima,Hayır,Hayır,Evet,Hayır,Şehir,47,19948
+Buca,4+1,60,25,2,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Deniz,523,11938
+Bornova,3+1,106,30,2,Klima,Hayır,Hayır,Evet,Evet,Şehir,479,20749
+Bornova,4+1,118,29,3,Soba,Hayır,Hayır,Hayır,Evet,Yok,200,22099
+Bornova,2+1,159,16,1,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Deniz,565,33754
+Bayraklı,3+1,116,19,2,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Yok,354,23472
+Konak,3+1,107,4,2,Soba,Hayır,Evet,Evet,Hayır,Yok,351,24514
+Karabağlar,4+1,62,3,3,Soba,Hayır,Hayır,Hayır,Hayır,Yok,285,10615
+Balçova,1+1,105,26,4,Klima,Evet,Evet,Evet,Evet,Yok,899,21695
+Bayraklı,4+1,106,14,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Şehir,142,20192
+Konak,1+1,87,8,1,Klima,Hayır,Hayır,Evet,Hayır,Yok,242,18361
+Bayraklı,2+1,177,28,2,Klima,Evet,Hayır,Evet,Hayır,Yok,721,34048
+Balçova,1+1,163,29,3,Klima,Evet,Hayır,Evet,Hayır,Yok,142,29750
+Balçova,3+1,62,29,3,Soba,Evet,Evet,Hayır,Evet,Deniz,893,12991
+Buca,2+1,95,4,1,Merkezi Sistem,Evet,Hayır,Hayır,Hayır,Şehir,83,17924
+Karabağlar,4+1,83,0,2,Soba,Hayır,Evet,Hayır,Hayır,Şehir,353,15190
+Karşıyaka,4+1,91,29,3,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Deniz,316,21173
+Bornova,2+1,76,26,2,Merkezi Sistem,Evet,Evet,Evet,Evet,Şehir,228,17066
+Karşıyaka,1+1,157,4,1,Klima,Hayır,Hayır,Evet,Hayır,Yok,80,36006
+Bornova,2+1,114,22,1,Klima,Hayır,Evet,Evet,Evet,Deniz,69,24922
+Balçova,3+1,74,12,3,Klima,Hayır,Hayır,Evet,Evet,Şehir,327,13945
+Bornova,1+1,103,25,1,Merkezi Sistem,Evet,Evet,Evet,Evet,Deniz,135,22208
+Konak,2+1,92,11,4,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Yok,126,19731
+Karabağlar,2+1,72,20,2,Merkezi Sistem,Evet,Evet,Evet,Evet,Deniz,912,14440
+Konak,3+1,102,18,3,Soba,Hayır,Evet,Hayır,Evet,Deniz,687,23179
+Konak,3+1,70,17,2,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Deniz,840,17174
+Bayraklı,4+1,151,18,3,Soba,Evet,Evet,Hayır,Evet,Deniz,643,31390
+Karşıyaka,1+1,66,10,3,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Şehir,570,14949
+Buca,1+1,142,13,4,Soba,Evet,Evet,Evet,Evet,Deniz,442,26936
+Buca,1+1,144,27,2,Soba,Hayır,Evet,Evet,Evet,Deniz,208,27061
+Konak,4+1,162,28,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Deniz,564,34936
+Buca,1+1,113,0,1,Merkezi Sistem,Hayır,Hayır,Hayır,Hayır,Deniz,943,19694
+Karşıyaka,2+1,162,15,1,Merkezi Sistem,Evet,Hayır,Hayır,Hayır,Yok,336,36199
+Balçova,2+1,138,13,2,Soba,Evet,Evet,Hayır,Hayır,Yok,734,25326
+Buca,1+1,76,23,4,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Deniz,34,13063
+Konak,4+1,164,0,3,Soba,Evet,Hayır,Evet,Evet,Deniz,989,37250
+Balçova,2+1,143,16,2,Merkezi Sistem,Evet,Evet,Hayır,Evet,Deniz,598,28298
+Karabağlar,4+1,175,28,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Şehir,848,30753
+Buca,4+1,141,30,1,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Deniz,93,24365
+Balçova,2+1,65,10,3,Klima,Evet,Hayır,Evet,Hayır,Yok,161,12148
+Karşıyaka,1+1,125,11,3,Klima,Hayır,Evet,Evet,Evet,Yok,9,28415
+Konak,2+1,143,17,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Yok,710,30211
+Balçova,2+1,166,17,1,Doğalgaz Kombi,Hayır,Hayır,Hayır,Hayır,Şehir,785,30338
+Karşıyaka,4+1,166,25,2,Soba,Hayır,Evet,Hayır,Evet,Şehir,372,36761
+Buca,2+1,87,16,2,Merkezi Sistem,Evet,Hayır,Evet,Evet,Yok,911,16708
+Karşıyaka,2+1,74,15,1,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Şehir,265,18277
+Bayraklı,1+1,73,9,3,Klima,Hayır,Hayır,Hayır,Hayır,Şehir,353,13557
+Bornova,2+1,119,7,1,Klima,Hayır,Hayır,Evet,Hayır,Yok,884,24118
+Bornova,2+1,124,8,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Hayır,Şehir,79,24133
+Bayraklı,2+1,118,14,4,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Yok,204,22030
+Konak,2+1,134,6,3,Soba,Hayır,Hayır,Hayır,Hayır,Şehir,791,27614
+Karabağlar,1+1,102,24,1,Soba,Hayır,Hayır,Hayır,Hayır,Deniz,436,17139
+Bayraklı,4+1,88,27,3,Merkezi Sistem,Evet,Hayır,Hayır,Evet,Deniz,89,17143
+Karabağlar,4+1,85,12,1,Klima,Hayır,Hayır,Evet,Hayır,Yok,512,15053
+Karşıyaka,1+1,76,11,4,Klima,Hayır,Evet,Evet,Hayır,Yok,92,17042
+Balçova,4+1,64,24,3,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Deniz,948,13446
+Karabağlar,4+1,92,16,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Deniz,393,16156
+Karşıyaka,1+1,103,12,3,Merkezi Sistem,Evet,Evet,Hayır,Evet,Deniz,158,25209
+Balçova,2+1,173,16,4,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Yok,977,32306
+Karşıyaka,2+1,94,11,3,Soba,Evet,Evet,Evet,Evet,Şehir,829,23756
+Buca,2+1,124,2,1,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Şehir,89,23105
+Buca,3+1,129,13,2,Soba,Evet,Evet,Hayır,Hayır,Şehir,3,23955
+Balçova,1+1,119,23,1,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Deniz,528,21717
+Buca,1+1,149,10,3,Soba,Hayır,Evet,Evet,Hayır,Yok,603,26886
+Karabağlar,1+1,132,13,4,Merkezi Sistem,Evet,Evet,Hayır,Evet,Şehir,736,24654
+Karabağlar,1+1,127,23,4,Klima,Evet,Hayır,Hayır,Evet,Yok,355,22936
+Karşıyaka,4+1,69,20,1,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Şehir,872,16290
+Balçova,3+1,107,3,2,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Deniz,448,21443
+Karşıyaka,2+1,86,13,4,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Yok,379,19643
+Buca,3+1,165,14,2,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Yok,343,28794
+Bornova,4+1,157,12,1,Soba,Evet,Hayır,Evet,Hayır,Yok,267,31365
+Karşıyaka,4+1,100,19,1,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Yok,507,21596
+Balçova,4+1,151,28,1,Klima,Evet,Evet,Hayır,Hayır,Deniz,515,29382
+Bornova,1+1,178,19,3,Merkezi Sistem,Evet,Evet,Evet,Evet,Şehir,77,36686
+Karşıyaka,4+1,168,20,2,Soba,Evet,Evet,Hayır,Hayır,Yok,932,38518
+Konak,4+1,149,21,3,Klima,Hayır,Evet,Evet,Evet,Deniz,497,33157
+Balçova,2+1,141,20,3,Klima,Hayır,Hayır,Evet,Hayır,Deniz,868,26228
+Bayraklı,4+1,64,23,3,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Yok,384,12436
+Buca,4+1,113,24,2,Merkezi Sistem,Hayır,Evet,Hayır,Evet,Şehir,730,20379
+Karabağlar,3+1,159,27,3,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Yok,255,27790
+Bayraklı,3+1,104,16,3,Soba,Hayır,Evet,Hayır,Hayır,Deniz,322,19778
+Karşıyaka,3+1,139,25,3,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,452,31569
+Karşıyaka,3+1,117,20,1,Klima,Evet,Evet,Hayır,Hayır,Deniz,765,26431
+Karşıyaka,1+1,136,0,4,Soba,Evet,Hayır,Evet,Hayır,Şehir,838,32183
+Buca,3+1,115,0,3,Merkezi Sistem,Evet,Evet,Evet,Evet,Şehir,767,22752
+Balçova,3+1,117,19,1,Merkezi Sistem,Evet,Evet,Evet,Evet,Deniz,309,24118
+Karşıyaka,4+1,106,20,4,Soba,Evet,Hayır,Hayır,Hayır,Yok,938,23764
+Karabağlar,1+1,147,20,4,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Şehir,937,25940
+Bornova,2+1,145,18,4,Soba,Evet,Hayır,Hayır,Hayır,Şehir,923,29781
+Bornova,1+1,166,24,2,Soba,Hayır,Hayır,Hayır,Hayır,Şehir,682,32105
+Buca,1+1,92,22,3,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Deniz,322,15603
+Bornova,4+1,86,14,4,Klima,Hayır,Evet,Evet,Evet,Deniz,439,18273
+Karşıyaka,3+1,145,10,2,Soba,Hayır,Evet,Hayır,Hayır,Yok,784,31935
+Balçova,3+1,107,3,4,Klima,Evet,Evet,Hayır,Evet,Şehir,869,21754
+Buca,3+1,164,18,4,Klima,Evet,Hayır,Hayır,Hayır,Deniz,783,29804
+Buca,3+1,163,8,3,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Deniz,759,29498
+Karşıyaka,2+1,67,17,2,Soba,Hayır,Hayır,Evet,Hayır,Yok,824,15029
+Buca,4+1,174,12,1,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Şehir,199,31178
+Konak,3+1,155,29,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Deniz,136,34707
+Karabağlar,4+1,174,16,2,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Şehir,813,32018
+Konak,1+1,70,2,4,Klima,Evet,Evet,Hayır,Hayır,Şehir,561,16021
+Buca,4+1,149,29,2,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Deniz,219,26144
+Konak,1+1,134,5,4,Klima,Evet,Evet,Evet,Hayır,Şehir,254,31431
+Konak,4+1,90,15,4,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Şehir,78,19145
+Buca,1+1,80,25,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Yok,711,12418
+Karabağlar,1+1,137,29,4,Soba,Hayır,Evet,Evet,Evet,Deniz,402,24260
+Karabağlar,4+1,128,25,2,Klima,Hayır,Hayır,Evet,Evet,Deniz,178,23063
+Konak,1+1,93,16,1,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Deniz,721,19959
+Konak,1+1,92,20,3,Merkezi Sistem,Hayır,Hayır,Hayır,Hayır,Şehir,134,19471
+Buca,3+1,80,25,1,Soba,Hayır,Evet,Evet,Hayır,Deniz,850,14431
+Balçova,3+1,118,0,3,Klima,Hayır,Evet,Evet,Hayır,Şehir,471,22476
+Karabağlar,2+1,108,16,3,Klima,Evet,Evet,Hayır,Evet,Deniz,590,20035
+Bayraklı,2+1,74,10,1,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Deniz,391,16656
+Karşıyaka,4+1,176,17,4,Merkezi Sistem,Evet,Evet,Evet,Hayır,Deniz,844,42187
+Balçova,4+1,164,12,4,Soba,Hayır,Evet,Hayır,Evet,Şehir,727,30315
+Karşıyaka,3+1,73,23,3,Soba,Hayır,Hayır,Hayır,Hayır,Şehir,246,16266
+Konak,1+1,71,0,4,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Deniz,229,18112
+Bornova,3+1,134,27,4,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,602,26086
+Bornova,2+1,156,25,4,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Deniz,404,32330
+Bornova,4+1,105,27,3,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Yok,231,21558
+Balçova,2+1,85,2,1,Klima,Evet,Hayır,Evet,Hayır,Yok,464,17631
+Karabağlar,2+1,145,9,4,Soba,Hayır,Evet,Hayır,Evet,Şehir,547,26507
+Balçova,1+1,145,24,4,Soba,Evet,Evet,Evet,Hayır,Şehir,437,27370
+Balçova,4+1,90,10,1,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Şehir,804,17406
+Karabağlar,1+1,111,11,3,Soba,Evet,Hayır,Hayır,Evet,Yok,845,20084
+Karabağlar,1+1,120,1,2,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Yok,573,22389
+Karşıyaka,4+1,145,20,4,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Şehir,175,31526
+Bornova,1+1,100,27,3,Soba,Hayır,Hayır,Hayır,Hayır,Şehir,568,19040
+Buca,1+1,74,5,3,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Deniz,773,15871
+Konak,3+1,161,16,4,Klima,Evet,Evet,Evet,Hayır,Deniz,907,36004
+Bayraklı,4+1,145,7,3,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Şehir,65,29258
+Karabağlar,1+1,114,23,1,Soba,Hayır,Hayır,Evet,Evet,Yok,931,19793
+Bayraklı,4+1,64,5,4,Klima,Hayır,Evet,Hayır,Hayır,Şehir,211,13380
+Bayraklı,3+1,174,21,4,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Yok,926,32891
+Balçova,3+1,165,21,2,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Yok,299,31884
+Karşıyaka,4+1,82,29,3,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Yok,315,18569
+Karabağlar,3+1,134,17,2,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Deniz,92,23803
+Bornova,3+1,60,8,2,Soba,Hayır,Evet,Hayır,Evet,Yok,367,11831
+Balçova,2+1,86,0,4,Merkezi Sistem,Evet,Evet,Evet,Hayır,Şehir,552,17812
+Bayraklı,3+1,170,23,4,Klima,Hayır,Evet,Hayır,Evet,Deniz,113,32839
+Bayraklı,1+1,148,28,2,Soba,Hayır,Evet,Hayır,Evet,Şehir,326,29067
+Karabağlar,2+1,71,22,3,Soba,Evet,Hayır,Hayır,Evet,Yok,530,12688
+Karşıyaka,1+1,64,11,4,Soba,Hayır,Hayır,Hayır,Hayır,Yok,171,12730
+Balçova,3+1,98,19,1,Soba,Evet,Hayır,Evet,Evet,Şehir,848,19539
+Bayraklı,2+1,62,1,1,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Yok,472,14146
+Karabağlar,4+1,122,13,3,Doğalgaz Kombi,Hayır,Evet,Evet,Hayır,Yok,591,21493
+Karabağlar,1+1,104,22,3,Klima,Hayır,Evet,Hayır,Hayır,Yok,201,16543
+Buca,1+1,130,2,2,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Deniz,711,22648
+Bayraklı,1+1,145,25,3,Merkezi Sistem,Hayır,Evet,Evet,Evet,Şehir,823,29973
+Buca,1+1,105,0,4,Merkezi Sistem,Hayır,Evet,Hayır,Evet,Şehir,73,19262
+Konak,3+1,82,27,2,Klima,Evet,Evet,Hayır,Evet,Şehir,213,19249
+Karşıyaka,1+1,177,6,4,Merkezi Sistem,Hayır,Evet,Evet,Evet,Deniz,953,41326
+Karabağlar,3+1,82,13,2,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Şehir,169,14782
+Karabağlar,4+1,112,20,3,Klima,Evet,Evet,Hayır,Evet,Yok,39,20405
+Karabağlar,3+1,107,14,3,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Şehir,331,19352
+Bayraklı,3+1,115,24,2,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Yok,582,20823
+Bayraklı,2+1,132,8,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Şehir,756,25563
+Buca,2+1,84,25,3,Soba,Hayır,Evet,Evet,Hayır,Şehir,190,15942
+Balçova,2+1,98,17,3,Soba,Hayır,Evet,Hayır,Hayır,Şehir,938,18647
+Balçova,3+1,172,26,2,Soba,Evet,Evet,Evet,Evet,Yok,539,32171
+Karabağlar,4+1,170,21,4,Soba,Evet,Hayır,Hayır,Evet,Yok,932,30274
+Bornova,2+1,164,20,2,Soba,Evet,Hayır,Hayır,Hayır,Yok,917,31822
+Bornova,2+1,174,9,1,Klima,Evet,Hayır,Hayır,Evet,Deniz,182,35685
+Balçova,3+1,129,12,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Şehir,967,24371
+Karabağlar,4+1,119,18,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Şehir,771,20977
+Bayraklı,1+1,159,0,3,Soba,Hayır,Evet,Hayır,Evet,Deniz,554,31227
+Bayraklı,2+1,148,0,4,Klima,Hayır,Hayır,Hayır,Hayır,Deniz,282,28905
+Balçova,1+1,149,1,2,Soba,Evet,Hayır,Evet,Hayır,Deniz,957,30254
+Karşıyaka,4+1,106,4,3,Soba,Hayır,Evet,Hayır,Evet,Şehir,548,23446
+Karşıyaka,1+1,89,21,2,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Şehir,924,21850
+Bayraklı,1+1,153,25,1,Soba,Hayır,Evet,Evet,Evet,Şehir,436,31197
+Bornova,3+1,83,24,4,Merkezi Sistem,Hayır,Evet,Evet,Evet,Deniz,307,18312
+Bornova,1+1,163,28,1,Soba,Hayır,Hayır,Hayır,Evet,Deniz,722,31060
+Bornova,3+1,113,24,1,Klima,Hayır,Hayır,Hayır,Hayır,Şehir,228,21526
+Karşıyaka,1+1,133,23,4,Merkezi Sistem,Evet,Hayır,Hayır,Evet,Deniz,982,30103
+Bayraklı,1+1,126,23,3,Soba,Evet,Evet,Evet,Hayır,Şehir,325,26499
+Bornova,4+1,173,17,1,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Şehir,494,35356
+Karşıyaka,4+1,63,21,3,Klima,Evet,Evet,Hayır,Hayır,Yok,485,15011
+Karşıyaka,4+1,90,11,2,Soba,Evet,Hayır,Evet,Evet,Şehir,575,22778
+Bayraklı,1+1,165,30,2,Merkezi Sistem,Evet,Hayır,Hayır,Hayır,Yok,724,31414
+Karabağlar,3+1,151,16,1,Merkezi Sistem,Evet,Hayır,Hayır,Hayır,Deniz,202,27771
+Balçova,2+1,71,7,2,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Şehir,770,14562
+Karabağlar,3+1,157,22,2,Merkezi Sistem,Evet,Evet,Hayır,Evet,Şehir,926,27936
+Balçova,2+1,137,2,2,Klima,Hayır,Hayır,Evet,Evet,Şehir,228,25994
+Balçova,2+1,156,29,2,Soba,Hayır,Evet,Hayır,Hayır,Deniz,412,27590
+Balçova,2+1,87,30,2,Soba,Hayır,Evet,Evet,Hayır,Yok,12,15736
+Buca,2+1,145,12,2,Klima,Hayır,Hayır,Evet,Evet,Şehir,341,25404
+Bornova,4+1,137,8,4,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Yok,690,28358
+Bayraklı,4+1,158,2,2,Soba,Hayır,Hayır,Hayır,Hayır,Yok,468,30487
+Bayraklı,4+1,74,2,3,Soba,Hayır,Evet,Hayır,Hayır,Deniz,928,16187
+Karşıyaka,4+1,138,19,4,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Yok,218,29586
+Karabağlar,2+1,141,24,4,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Yok,392,24405
+Balçova,4+1,167,9,1,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Şehir,508,31787
+Buca,2+1,150,22,1,Merkezi Sistem,Evet,Hayır,Hayır,Evet,Şehir,501,27346
+Bayraklı,3+1,137,25,3,Klima,Evet,Hayır,Evet,Hayır,Deniz,665,28913
+Buca,1+1,172,13,3,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Şehir,145,31979
+Bornova,2+1,161,1,1,Soba,Hayır,Evet,Evet,Evet,Yok,375,32126
+Konak,1+1,163,19,4,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Yok,876,35238
+Bornova,3+1,85,16,2,Soba,Hayır,Hayır,Hayır,Hayır,Deniz,102,16511
+Bayraklı,1+1,108,4,4,Soba,Evet,Evet,Hayır,Evet,Deniz,200,22875
+Bornova,4+1,109,11,3,Klima,Hayır,Evet,Hayır,Evet,Yok,790,21109
+Bayraklı,4+1,70,11,2,Soba,Evet,Evet,Hayır,Hayır,Yok,424,15029
+Bornova,4+1,98,16,2,Klima,Hayır,Evet,Hayır,Hayır,Deniz,474,19516
+Karabağlar,3+1,133,18,3,Klima,Hayır,Hayır,Hayır,Evet,Şehir,562,22785
+Buca,2+1,84,30,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Yok,982,14041
+Konak,3+1,98,25,4,Merkezi Sistem,Hayır,Evet,Evet,Evet,Şehir,496,22146
+Karabağlar,4+1,115,8,3,Soba,Evet,Evet,Evet,Evet,Şehir,698,21679
+Buca,1+1,170,12,2,Merkezi Sistem,Evet,Hayır,Hayır,Evet,Şehir,370,29362
+Buca,3+1,74,24,1,Soba,Hayır,Hayır,Hayır,Evet,Şehir,538,12490
+Karabağlar,4+1,98,4,3,Klima,Evet,Evet,Hayır,Hayır,Deniz,571,18720
+Balçova,1+1,114,11,1,Soba,Evet,Hayır,Evet,Hayır,Deniz,337,23058
+Karşıyaka,1+1,114,0,1,Klima,Evet,Hayır,Evet,Evet,Yok,647,27006
+Karabağlar,4+1,66,28,3,Merkezi Sistem,Hayır,Evet,Hayır,Evet,Şehir,428,10799
+Karşıyaka,2+1,101,26,4,Soba,Hayır,Hayır,Hayır,Evet,Şehir,312,21959
+Bayraklı,3+1,110,5,3,Klima,Evet,Hayır,Evet,Hayır,Şehir,842,23346
+Karşıyaka,3+1,61,14,3,Klima,Hayır,Evet,Hayır,Hayır,Yok,491,13000
+Buca,1+1,111,23,3,Soba,Hayır,Hayır,Hayır,Evet,Şehir,937,19032
+Konak,2+1,85,3,3,Klima,Hayır,Evet,Hayır,Evet,Deniz,789,19163
+Buca,2+1,149,8,1,Klima,Hayır,Evet,Hayır,Hayır,Şehir,658,25529
+Bornova,3+1,137,24,4,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Deniz,182,29452
+Bayraklı,1+1,98,28,3,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Şehir,667,21688
+Buca,1+1,168,24,3,Merkezi Sistem,Hayır,Hayır,Hayır,Hayır,Deniz,1000,28812
+Bornova,3+1,82,25,2,Klima,Hayır,Hayır,Hayır,Hayır,Deniz,858,16673
+Karşıyaka,1+1,86,18,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Yok,614,18018
+Konak,3+1,120,7,4,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Şehir,591,25733
+Bornova,4+1,161,16,2,Soba,Evet,Hayır,Hayır,Hayır,Şehir,80,31965
+Konak,4+1,141,7,2,Merkezi Sistem,Evet,Evet,Evet,Evet,Deniz,391,32570
+Karşıyaka,3+1,166,14,2,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Yok,25,38179
+Karşıyaka,1+1,92,21,3,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Şehir,378,21719
+Bornova,2+1,114,28,1,Klima,Evet,Evet,Evet,Evet,Yok,252,23786
+Karabağlar,3+1,138,0,1,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Şehir,136,25223
+Bornova,3+1,161,20,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Deniz,832,33223
+Balçova,3+1,120,1,2,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Yok,91,24065
+Konak,2+1,85,28,4,Doğalgaz Kombi,Hayır,Hayır,Hayır,Hayır,Deniz,761,17230
+Karşıyaka,3+1,148,2,1,Merkezi Sistem,Hayır,Hayır,Hayır,Hayır,Deniz,672,32452
+Bornova,2+1,116,1,1,Soba,Hayır,Evet,Evet,Hayır,Şehir,578,23953
+Bayraklı,4+1,145,8,1,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Şehir,353,29781
+Bornova,4+1,90,7,4,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Deniz,143,19953
+Buca,4+1,163,4,1,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Deniz,950,28572
+Karşıyaka,3+1,107,12,2,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Şehir,673,25157
+Konak,1+1,125,27,4,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Şehir,599,27517
+Karabağlar,3+1,113,16,1,Soba,Hayır,Evet,Hayır,Hayır,Yok,955,19494
+Balçova,4+1,118,7,3,Soba,Hayır,Hayır,Hayır,Hayır,Deniz,5,22571
+Karabağlar,4+1,85,6,2,Soba,Hayır,Evet,Evet,Evet,Deniz,762,16932
+Bayraklı,2+1,62,7,2,Klima,Hayır,Hayır,Hayır,Hayır,Şehir,689,10954
+Konak,3+1,149,1,2,Klima,Evet,Hayır,Evet,Evet,Deniz,247,35306
+Bayraklı,4+1,128,0,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Şehir,70,26128
+Karşıyaka,1+1,152,13,2,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Şehir,860,35986
+Konak,3+1,111,23,4,Doğalgaz Kombi,Hayır,Evet,Evet,Hayır,Şehir,504,24625
+Bornova,4+1,101,26,1,Klima,Hayır,Hayır,Evet,Hayır,Şehir,800,21018
+Konak,4+1,94,3,4,Merkezi Sistem,Hayır,Evet,Hayır,Evet,Yok,87,19432
+Bornova,2+1,111,10,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Şehir,954,22362
+Bornova,3+1,141,14,2,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Deniz,111,29680
+Karşıyaka,3+1,177,7,3,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Yok,334,39562
+Karşıyaka,2+1,110,25,1,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Deniz,808,23776
+Bayraklı,2+1,147,0,4,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Yok,164,29228
+Buca,2+1,69,16,4,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Şehir,16,15083
+Karşıyaka,4+1,157,11,1,Klima,Evet,Evet,Evet,Evet,Deniz,232,38182
+Karabağlar,1+1,137,18,1,Soba,Hayır,Evet,Hayır,Hayır,Şehir,890,24371
+Balçova,2+1,89,25,4,Soba,Hayır,Hayır,Evet,Evet,Yok,324,15760
+Bayraklı,2+1,95,13,2,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Yok,947,19206
+Bayraklı,2+1,113,27,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Deniz,322,22791
+Buca,4+1,123,26,1,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Deniz,312,21538
+Bornova,3+1,98,12,1,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Deniz,599,21647
+Karşıyaka,1+1,80,10,1,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Şehir,285,19212
+Bayraklı,2+1,156,1,2,Soba,Evet,Hayır,Hayır,Hayır,Deniz,748,32260
+Bayraklı,2+1,180,18,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Şehir,366,34932
+Buca,1+1,100,28,3,Klima,Evet,Hayır,Evet,Hayır,Deniz,552,18531
+Bornova,1+1,127,29,2,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Şehir,531,25299
+Karşıyaka,2+1,102,0,1,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Yok,141,24400
+Buca,3+1,124,15,1,Merkezi Sistem,Evet,Evet,Hayır,Evet,Şehir,979,22991
+Buca,3+1,99,6,1,Klima,Hayır,Hayır,Evet,Hayır,Yok,181,17688
+Konak,2+1,70,24,3,Merkezi Sistem,Evet,Hayır,Evet,Evet,Yok,376,16928
+Balçova,2+1,174,10,4,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Şehir,667,32173
+Buca,2+1,95,26,4,Klima,Hayır,Evet,Hayır,Evet,Deniz,476,16462
+Bornova,1+1,65,4,2,Soba,Evet,Evet,Hayır,Hayır,Şehir,374,14306
+Balçova,2+1,127,26,2,Klima,Hayır,Evet,Evet,Evet,Yok,955,23555
+Konak,4+1,160,17,3,Klima,Evet,Hayır,Hayır,Hayır,Yok,999,33277
+Bornova,1+1,84,9,2,Soba,Evet,Hayır,Hayır,Hayır,Yok,344,16717
+Buca,4+1,61,10,2,Merkezi Sistem,Evet,Hayır,Evet,Evet,Şehir,560,13395
+Konak,4+1,66,20,2,Klima,Evet,Hayır,Evet,Evet,Şehir,378,15282
+Buca,4+1,155,16,3,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Deniz,599,28518
+Bayraklı,4+1,61,2,2,Klima,Hayır,Hayır,Hayır,Evet,Yok,224,12005
+Balçova,3+1,115,1,4,Soba,Hayır,Evet,Evet,Evet,Yok,74,22748
+Bayraklı,2+1,136,10,1,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Şehir,651,26702
+Balçova,2+1,126,26,1,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Yok,546,22318
+Balçova,3+1,158,6,2,Klima,Hayır,Hayır,Evet,Evet,Yok,406,29924
+Buca,1+1,172,4,4,Soba,Hayır,Hayır,Evet,Evet,Yok,532,30129
+Konak,4+1,136,11,2,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Yok,482,28928
+Balçova,4+1,88,10,3,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Şehir,758,17041
+Buca,4+1,82,1,4,Soba,Evet,Hayır,Evet,Hayır,Deniz,525,16406
+Bornova,4+1,172,7,4,Soba,Hayır,Hayır,Hayır,Hayır,Deniz,573,33310
+Karşıyaka,4+1,94,30,4,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Yok,429,21591
+Buca,1+1,92,1,4,Soba,Evet,Evet,Hayır,Hayır,Şehir,819,17076
+Buca,2+1,140,25,4,Soba,Hayır,Evet,Hayır,Hayır,Deniz,102,24680
+Bayraklı,2+1,116,9,3,Doğalgaz Kombi,Hayır,Evet,Evet,Hayır,Yok,491,23870
+Karşıyaka,4+1,101,19,3,Klima,Evet,Evet,Evet,Evet,Deniz,451,25509
+Bayraklı,3+1,104,15,3,Klima,Evet,Hayır,Evet,Hayır,Şehir,126,21744
+Konak,1+1,151,20,2,Klima,Evet,Evet,Evet,Hayır,Şehir,297,34644
+Balçova,1+1,87,17,1,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Deniz,563,17373
+Balçova,4+1,79,11,1,Soba,Hayır,Evet,Hayır,Hayır,Yok,76,13812
+Karşıyaka,3+1,175,9,4,Soba,Hayır,Hayır,Evet,Evet,Yok,167,39319
+Konak,1+1,85,16,1,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Deniz,556,19914
+Balçova,1+1,118,8,3,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Şehir,723,22487
+Buca,1+1,105,25,4,Merkezi Sistem,Hayır,Evet,Evet,Hayır,Şehir,618,19065
+Karşıyaka,3+1,173,12,1,Soba,Evet,Evet,Evet,Hayır,Deniz,536,40725
+Balçova,1+1,89,5,4,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Yok,998,16985
+Bornova,1+1,100,16,2,Klima,Hayır,Hayır,Hayır,Evet,Yok,446,19111
+Bayraklı,4+1,127,2,1,Klima,Evet,Evet,Hayır,Evet,Deniz,625,27341
+Balçova,1+1,142,10,2,Merkezi Sistem,Evet,Hayır,Hayır,Hayır,Şehir,264,27154
+Buca,2+1,77,29,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Deniz,550,15219
+Bayraklı,1+1,83,8,1,Soba,Hayır,Evet,Evet,Evet,Yok,762,17951
+Karşıyaka,1+1,126,11,1,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Deniz,304,29566
+Balçova,1+1,72,17,3,Merkezi Sistem,Evet,Evet,Evet,Hayır,Deniz,94,15478
+Karabağlar,3+1,85,17,4,Soba,Hayır,Evet,Evet,Hayır,Yok,114,15376
+Buca,2+1,162,30,1,Soba,Evet,Evet,Hayır,Hayır,Şehir,900,29180
+Balçova,4+1,147,6,4,Klima,Hayır,Evet,Hayır,Evet,Yok,837,27146
+Konak,4+1,61,10,3,Merkezi Sistem,Evet,Evet,Evet,Hayır,Şehir,651,14541
+Karşıyaka,3+1,111,17,1,Soba,Hayır,Evet,Hayır,Evet,Yok,449,23597
+Buca,1+1,170,19,3,Soba,Evet,Evet,Evet,Evet,Şehir,279,31759
+Konak,1+1,160,28,2,Klima,Hayır,Hayır,Hayır,Hayır,Yok,18,32338
+Konak,1+1,174,23,2,Klima,Evet,Hayır,Evet,Evet,Deniz,458,39381
+Bayraklı,1+1,165,15,4,Doğalgaz Kombi,Hayır,Hayır,Evet,Hayır,Yok,746,31505
+Konak,4+1,160,29,4,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Deniz,542,36296
+Karabağlar,1+1,151,28,4,Soba,Hayır,Evet,Evet,Hayır,Deniz,610,26239
+Karşıyaka,1+1,146,0,2,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Şehir,817,33368
+Bornova,1+1,107,24,4,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Deniz,180,23734
+Karşıyaka,2+1,179,3,2,Merkezi Sistem,Evet,Hayır,Evet,Evet,Yok,893,42299
+Karşıyaka,4+1,167,9,3,Klima,Hayır,Hayır,Hayır,Hayır,Deniz,856,38055
+Buca,4+1,82,26,1,Klima,Hayır,Hayır,Evet,Hayır,Şehir,5,13463
+Karabağlar,1+1,172,3,4,Klima,Evet,Hayır,Evet,Evet,Deniz,520,32893
+Buca,3+1,133,7,3,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Deniz,799,25623
+Karabağlar,3+1,171,22,4,Klima,Evet,Evet,Hayır,Evet,Yok,711,29509
+Karabağlar,2+1,135,29,3,Soba,Hayır,Evet,Hayır,Hayır,Şehir,107,23312
+Bornova,1+1,112,23,3,Doğalgaz Kombi,Evet,Hayır,Hayır,Hayır,Şehir,41,22600
+Karabağlar,2+1,136,28,3,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Şehir,94,23727
+Konak,2+1,120,9,1,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Yok,898,26657
+Buca,3+1,74,29,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Yok,871,12834
+Karabağlar,2+1,102,4,2,Soba,Hayır,Hayır,Hayır,Hayır,Deniz,695,17501
+Bayraklı,1+1,167,5,2,Soba,Evet,Evet,Hayır,Evet,Deniz,849,33180
+Bayraklı,4+1,129,25,3,Merkezi Sistem,Hayır,Hayır,Evet,Evet,Şehir,173,24557
+Konak,1+1,66,0,4,Klima,Hayır,Evet,Hayır,Hayır,Şehir,881,14710
+Balçova,3+1,143,3,4,Klima,Evet,Hayır,Evet,Hayır,Deniz,733,29175
+Bayraklı,4+1,99,26,4,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Şehir,728,18616
+Karabağlar,4+1,83,18,4,Soba,Evet,Evet,Evet,Evet,Deniz,833,17629
+Karabağlar,2+1,124,28,4,Merkezi Sistem,Evet,Evet,Evet,Hayır,Deniz,882,24116
+Karabağlar,2+1,61,29,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Hayır,Yok,662,9997
+Balçova,3+1,90,9,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Deniz,619,16314
+Konak,2+1,134,13,2,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Deniz,836,30745
+Karabağlar,3+1,83,25,4,Soba,Hayır,Evet,Evet,Evet,Yok,583,15235
+Karabağlar,1+1,74,18,2,Soba,Hayır,Hayır,Evet,Evet,Deniz,189,14092
+Bayraklı,1+1,80,11,2,Doğalgaz Kombi,Evet,Hayır,Hayır,Evet,Şehir,208,16469
+Karşıyaka,4+1,79,28,4,Soba,Evet,Evet,Evet,Evet,Yok,782,19801
+Karabağlar,1+1,120,9,3,Soba,Hayır,Hayır,Evet,Hayır,Yok,649,20571
+Karşıyaka,4+1,91,11,4,Soba,Hayır,Evet,Evet,Evet,Yok,827,21406
+Karşıyaka,3+1,127,10,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Şehir,961,29881
+Balçova,4+1,118,22,3,Merkezi Sistem,Evet,Hayır,Evet,Evet,Deniz,9,24022
+Karabağlar,4+1,78,5,4,Klima,Evet,Hayır,Evet,Evet,Deniz,851,15440
+Balçova,2+1,165,14,1,Soba,Evet,Hayır,Evet,Evet,Deniz,204,32331
+Karabağlar,1+1,167,15,1,Klima,Evet,Evet,Evet,Evet,Deniz,598,31063
+Karabağlar,3+1,143,17,2,Klima,Hayır,Hayır,Hayır,Hayır,Deniz,488,23598
+Karşıyaka,2+1,179,1,1,Klima,Hayır,Hayır,Evet,Hayır,Deniz,271,40892
+Bayraklı,2+1,164,8,4,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Yok,898,31611
+Karabağlar,2+1,113,15,4,Soba,Hayır,Evet,Hayır,Hayır,Deniz,763,19234
+Bayraklı,2+1,136,10,2,Soba,Evet,Hayır,Hayır,Evet,Şehir,971,27793
+Buca,3+1,60,24,4,Merkezi Sistem,Evet,Evet,Evet,Evet,Yok,474,11541
+Buca,2+1,110,7,1,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Yok,684,20336
+Karşıyaka,1+1,163,14,4,Doğalgaz Kombi,Evet,Hayır,Evet,Evet,Yok,630,36674
+Konak,2+1,171,3,2,Soba,Evet,Hayır,Hayır,Evet,Deniz,602,38623
+Bornova,3+1,92,8,3,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Deniz,571,18520
+Bornova,2+1,159,12,2,Doğalgaz Kombi,Hayır,Evet,Evet,Evet,Şehir,124,32725
+Bayraklı,2+1,177,11,1,Klima,Hayır,Hayır,Hayır,Hayır,Şehir,450,32738
+Konak,3+1,135,30,1,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Deniz,556,28900
+Karşıyaka,2+1,101,2,1,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Deniz,234,25086
+Karabağlar,4+1,73,8,1,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Şehir,320,14490
+Balçova,4+1,156,23,2,Klima,Evet,Evet,Evet,Hayır,Deniz,616,31205
+Balçova,1+1,60,21,2,Merkezi Sistem,Evet,Hayır,Evet,Evet,Deniz,60,13025
+Konak,2+1,136,15,2,Doğalgaz Kombi,Hayır,Evet,Hayır,Evet,Yok,363,27728
+Konak,4+1,79,22,1,Doğalgaz Kombi,Hayır,Evet,Evet,Hayır,Deniz,314,18071
+Buca,2+1,179,19,2,Klima,Evet,Hayır,Evet,Hayır,Deniz,919,33025
+Bornova,4+1,141,14,4,Merkezi Sistem,Evet,Hayır,Evet,Hayır,Yok,396,28672
+Karabağlar,4+1,156,7,1,Klima,Hayır,Evet,Evet,Hayır,Yok,254,28369
+Bornova,1+1,147,8,2,Soba,Hayır,Evet,Hayır,Evet,Yok,413,29987
+Bornova,2+1,176,5,4,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Yok,975,36057
+Balçova,1+1,165,11,1,Doğalgaz Kombi,Evet,Evet,Hayır,Evet,Yok,869,31019
+Karabağlar,4+1,154,27,3,Soba,Hayır,Hayır,Hayır,Evet,Yok,871,25292
+Karşıyaka,2+1,148,4,4,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Deniz,926,35365
+Buca,1+1,86,20,2,Soba,Evet,Evet,Hayır,Hayır,Yok,917,15011
+Konak,1+1,107,9,1,Klima,Evet,Evet,Evet,Evet,Şehir,614,25526
+Balçova,2+1,122,1,3,Klima,Hayır,Evet,Evet,Hayır,Deniz,881,23659
+Balçova,4+1,152,11,1,Doğalgaz Kombi,Hayır,Hayır,Evet,Evet,Yok,225,28159
+Bayraklı,1+1,148,30,1,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Şehir,681,28297
+Bayraklı,4+1,107,8,1,Merkezi Sistem,Evet,Hayır,Hayır,Evet,Yok,524,21908
+Konak,4+1,171,8,2,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Yok,501,36645
+Karabağlar,3+1,142,26,1,Merkezi Sistem,Hayır,Evet,Hayır,Hayır,Deniz,986,24947
+Buca,3+1,114,14,4,Doğalgaz Kombi,Hayır,Hayır,Hayır,Hayır,Yok,357,19453
+Karşıyaka,2+1,123,6,1,Klima,Hayır,Hayır,Evet,Evet,Yok,190,28665
+Karabağlar,4+1,90,26,3,Klima,Hayır,Evet,Evet,Evet,Yok,289,17000
+Konak,3+1,87,21,3,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Yok,380,18282
+Konak,1+1,101,27,3,Klima,Evet,Hayır,Evet,Evet,Şehir,703,23141
+Buca,2+1,170,15,1,Klima,Hayır,Hayır,Evet,Evet,Deniz,608,30371
+Karabağlar,4+1,155,1,2,Soba,Hayır,Evet,Hayır,Hayır,Deniz,863,26764
+Karabağlar,1+1,94,12,1,Soba,Hayır,Hayır,Hayır,Hayır,Şehir,521,15890
+Bornova,1+1,103,3,3,Doğalgaz Kombi,Evet,Evet,Evet,Hayır,Yok,783,22746
+Karşıyaka,2+1,75,10,4,Soba,Evet,Hayır,Hayır,Evet,Yok,33,17848
+Karabağlar,2+1,140,10,3,Soba,Evet,Evet,Evet,Hayır,Deniz,153,26822
+Karşıyaka,3+1,162,0,1,Soba,Evet,Hayır,Evet,Hayır,Yok,478,37929
+Karabağlar,4+1,112,9,4,Soba,Evet,Hayır,Hayır,Evet,Yok,23,19307
+Balçova,4+1,177,29,4,Klima,Evet,Evet,Hayır,Hayır,Deniz,86,32979
+Karşıyaka,2+1,104,19,1,Doğalgaz Kombi,Evet,Hayır,Evet,Hayır,Yok,480,23224
+Karabağlar,4+1,80,7,2,Klima,Evet,Hayır,Evet,Hayır,Yok,454,14596
+Karabağlar,4+1,121,5,2,Klima,Evet,Hayır,Hayır,Evet,Yok,938,21167
+Balçova,3+1,81,20,3,Klima,Evet,Evet,Evet,Evet,Yok,783,16165
+Konak,4+1,106,11,1,Soba,Hayır,Evet,Hayır,Hayır,Yok,4,21712
+Bornova,4+1,147,13,2,Soba,Evet,Hayır,Evet,Evet,Şehir,412,31502
+Buca,3+1,121,13,4,Klima,Evet,Evet,Hayır,Evet,Yok,348,20933
+Balçova,1+1,109,14,3,Klima,Hayır,Hayır,Hayır,Hayır,Şehir,320,20063
+Konak,3+1,76,6,1,Soba,Evet,Evet,Evet,Hayır,Şehir,322,19440
+Bayraklı,3+1,61,20,4,Merkezi Sistem,Hayır,Hayır,Hayır,Evet,Deniz,484,12818
+Buca,2+1,128,10,1,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Deniz,472,22743
+Balçova,1+1,147,27,3,Doğalgaz Kombi,Hayır,Hayır,Hayır,Evet,Deniz,60,25814
+Bayraklı,2+1,136,3,3,Klima,Evet,Hayır,Evet,Evet,Yok,131,28818
+Konak,1+1,63,26,1,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Şehir,330,16557
+Karabağlar,1+1,165,9,4,Merkezi Sistem,Evet,Evet,Hayır,Hayır,Yok,401,29552
+Konak,4+1,89,30,2,Doğalgaz Kombi,Evet,Evet,Evet,Evet,Şehir,943,20757
+Bornova,2+1,95,8,3,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Yok,236,18596
+Bornova,2+1,93,1,2,Doğalgaz Kombi,Evet,Evet,Hayır,Hayır,Yok,396,19791
+Karabağlar,3+1,89,13,4,Soba,Evet,Hayır,Hayır,Hayır,Deniz,769,16481
+Konak,1+1,109,23,1,Soba,Hayır,Evet,Hayır,Hayır,Deniz,393,23092
+Konak,1+1,180,23,1,Soba,Hayır,Hayır,Hayır,Evet,Şehir,378,37212
+Bayraklı,3+1,177,14,4,Merkezi Sistem,Hayır,Hayır,Evet,Hayır,Deniz,80,35313
+Karabağlar,3+1,111,28,1,Soba,Hayır,Evet,Hayır,Evet,Yok,310,18727
